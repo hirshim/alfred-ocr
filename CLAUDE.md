@@ -128,4 +128,4 @@ alfred-ocr/
 
 - [x] アイコンを OCR 専用のものに変更する
 - [x] 作者名を設定する
-- [ ] GitHub Releases に .alfredworkflow を公開する
+- [x] GitHub Releases に .alfredworkflow を公開する
