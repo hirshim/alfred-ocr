@@ -19,7 +19,7 @@ make help     # ヘルプ表示
 
 ## Architecture
 
-### ワークフローフロー
+### 処理フロー
 
 ```
 Alfred で "ocr" 入力
@@ -41,6 +41,7 @@ alfred-ocr/
 ├── icon.png                # ワークフローアイコン
 ├── Makefile                # ビルドシステム
 ├── CLAUDE.md               # このファイル
+├── README.md               # プロジェクト説明
 ├── .gitignore
 ├── build/                  # ビルド成果物（git 管理外）
 │   ├── ocr                 # コンパイル済みバイナリ
